@@ -1,0 +1,17 @@
+title {
+    color: #F56969;
+}
+
+.footer-divider {
+    margin: 2rem 0;
+    border: 0;
+    border-top: 1px solid #e9ecef;
+}
+
+.footer {
+    margin-bottom: 2rem;
+}
+
+.copyright {
+    margin-bottom: 0;
+}
