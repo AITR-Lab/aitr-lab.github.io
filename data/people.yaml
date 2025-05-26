@@ -4,27 +4,6 @@ people:
     - id: dr_thanuja
       name: Dr. Thanuja Ambegoda - UoM
       homepage: https://thanuj.lk/
-    - id: prof_indika
-      name: Prof. Indika Perera - UoM
-      homepage: 
-    - id: prof_dulani
-      name: Prof. Dulani Meedeniya - UoM
-      homepage: 
-    - id: dr_buddhika
-      name: Dr. Buddhika Karunarathne - UoM
-      homepage: 
-    - id: dr_sapumal
-      name: Dr. Sapumal Ahangama - UoM
-      homepage: 
-    - id: dr_sandareka
-      name: Dr. Sandareka Wickramanayake  - UoM
-      homepage: 
-    - id: dr_uthayasanker
-      name: Dr. Uthayasanker Thayasivam - UoM
-      homepage: 
-    - id: dr_ruchira
-      name: Dr. Ruchira Wijesena - UoM
-      homepage: 
 
   external_faculty:
     - id: empty
