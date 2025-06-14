@@ -17,6 +17,9 @@
     {{ $style := resources.Get "style/main.css" | minify }}
     <link rel="stylesheet" href="{{ $style.RelPermalink }}">
 
+    {{ $style := resources.Get "css/publications.css" | minify }}
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+
     <style>
         .navbar-brand.title {
             font-size: 1.7rem !important;

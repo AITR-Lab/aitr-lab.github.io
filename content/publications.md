@@ -1,16 +1,5 @@
-<style>
-.description-block {
-    background-color: #e6f3ff;
-    padding: 15px;
-    border-radius: 5px;
-    margin-bottom: 20px;
-}
-</style>
-
 # Publications
 We are interested in building resource efficient intelligent systems, mainly performing intelligent tasks on image data such as medical imaging or video recordings. Here are some of the projects we've been working on.
-
-
 
 ## Medical Image Analysis and Diagnostic Assistance
 <div class="description-block">
