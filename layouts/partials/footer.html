@@ -1,0 +1,18 @@
+<hr class="footer-divider">
+<footer class="footer">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-auto">
+                <p class="copyright text-muted text-center">
+                    {{ if .Site.Params.footer.text }}
+                        {{ .Site.Params.footer.text | safeHTML }}
+                    {{ else }}
+                        Copyright © {{ .Site.Params.author }} {{ now.Format "2006" }}
+                    {{ end }}
+                    <br>
+                    <span style="font-size: 0.8em;">Last updated: {{ now.Format "January 2, 2006" }}</span>
+                </p>
+            </div>
+        </div>
+    </div>
+</footer> 
