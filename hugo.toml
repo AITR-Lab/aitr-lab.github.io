@@ -11,7 +11,7 @@ author = "AITR"
 description = "AITR is a research lab working on deveoping applying foundational AI and machine learning methods to solve real-world problems across domains such as document analysis, computer vision, and medical imaging. "
 favicon = "favicon.ico"  # path to a .ico to use as favicon
 css = ["css/custom.css"]
-googleAnalytics = "UA-186917619-1"
+googleAnalytics = "G-TKWX29W9Z2"
 footer = { text = "Welcome to AITR 💙" }
 
 
