@@ -2,6 +2,16 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-TKWX29W9Z2"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-TKWX29W9Z2');
+    </script>
+
     <title>{{ .Title }}{{ if not .IsHome }} | {{ .Site.Params.titleAbbr }}{{ end }}</title>
     <meta name="description" content="{{ .Site.Params.description }}">
     <meta name="author" content='{{ .Site.Params.author }}'>
@@ -39,16 +49,4 @@
         "logo": "https://chicagohai.github.io/avatar.jpg"
     }
     </script>
-
-    {{ if eq (getenv "HUGO_ENV") "production" }}
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.googleAnalytics }}"></script>
-    <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', "{{ .Site.Params.googleAnalytics }}");
-    </script>
-    {{ end }}
 </head>
