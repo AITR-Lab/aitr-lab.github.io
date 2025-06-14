@@ -1,9 +1,0 @@
-*.DS_Store
-
-.vscode
-.idea
-
-# ./public: hugo build contents
-public
-# ./resources: hugo build cache
-resources
