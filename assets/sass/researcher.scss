@@ -50,7 +50,7 @@ $y-medium: 1.0rem;
     @extend %link-dark;
     font-size: 2rem;
 
-    color: maroon;
+    color: #01212e;
     font-weight: bold;
 }
 .nav-link {
@@ -152,7 +152,7 @@ header {
     display: flex;
     flex-direction: column;
     gap: 0.25rem;
-    background: #ffd8d1;
+    background: #bddcf8;
     border-radius: 0.5rem;
     padding: 1rem;
 

@@ -12,7 +12,7 @@ description = "AITR is a research lab working on deveoping applying foundational
 favicon = "favicon.ico"  # path to a .ico to use as favicon
 css = ["css/custom.css"]
 googleAnalytics = "UA-186917619-1"
-footer = { text = "Welcome to AITR" }
+footer = { text = "Welcome to AITR 💙" }
 
 
 [permalinks]
@@ -32,7 +32,7 @@ footer = { text = "Welcome to AITR" }
 
 [[menu.main]]
   name = "Publications"
-  url = "/Publication"
+  url = "/publications"
   weight = 4
 
 [markup.goldmark.renderer]

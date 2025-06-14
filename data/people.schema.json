@@ -1,15 +1,15 @@
 {
     "$schema": "http://json-schema.org/schema",
     "$id": "https://chicagohai.github.io/people.schema.json",
-    "title": "People of CHAI",
-    "description": "People information of CHAI",
+    "title": "People of AITR",
+    "description": "People information of AITR",
     "type": "object",
     "properties": {
         "people": {
             "type": "object",
-            "description": "People list of CHAI",
+            "description": "People list of AITR",
             "properties": {
-                "faculty": {
+                "collaborators": {
                     "$ref": "#/definitions/list_person"
                 },
                 "postdoc": {
@@ -23,7 +23,7 @@
                 }
             },
             "required": [
-                "faculty",
+                "collaborators",
                 "postdoc",
                 "phd",
                 "external_faculty",
@@ -34,7 +34,7 @@
     "definitions": {
         "person": {
             "type": "object",
-            "description": "A person from CHAI",
+            "description": "A person from AITR",
             "properties": {
                 "id": {
                     "type": "string",
