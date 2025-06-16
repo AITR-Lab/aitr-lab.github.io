@@ -74,6 +74,6 @@ Robotics and IoT systems involve processing of sensor data in order to perform a
 
 ## Other Publications
 
-* Minoli, M., & Ambegoda, T. D. (2012). <a href="/assets/publications/knowledge-graphs-for-covid-19-a-survey-pdf.pdf" target="_blank">Knowledge Graphs for COVID-19: A Survey</a>. In _Advanced AI and Internet of Health Things for Combating Pandemics_ (pp. 3-19). Springer.
+* Minoli, M., & Ambegoda, T. D. (2023). <a href="/assets/publications/knowledge-graphs-for-covid-19-a-survey-pdf.pdf" target="_blank">Knowledge Graphs for COVID-19: A Survey</a>. In _Advanced AI and Internet of Health Things for Combating Pandemics_ (pp. 3-19). Springer.
 * Ambegoda Liyana Arachchige, T. D. (2017). <a href="/assets/publications/em-image-analysis-for-neuron-segmentation-thickness-estimation-and-synaptic-bouton-quantificationpdf.pdf" target="_blank">EM image analysis for neuron segmentation, thickness estimation, and synaptic bouton quantification</a>. _PhD Thesis, ETH Zurich_.
 * Ambegoda, A. L. A. T. D., De Silva, W. T. S., Hemachandra, K. T., Samarasinghe, T. N., & Samarasinghe, A. T. L. K. (2008). <a href="/assets/publications/centralized-traffic-controlling-system-for-sri-lanka-railwayspdf.pdf" target="_blank">Centralized traffic controlling system for Sri Lanka railways</a>. In _2008 4th International Conference on Information and Automation for Sustainability_ (pp. 145-149). IEEE.
